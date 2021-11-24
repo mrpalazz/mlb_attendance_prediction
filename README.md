@@ -13,6 +13,17 @@ The data comes from two sources:
 
 ## How To Run
 
-* - Run notebook 02.01.01-data_wrangling.ipynb, this will scrape the web for the game statistics
-* - Run notebook 02.01.02-data_wrangling.ipynb, this will import the stadium attributes and join the datasets
-* - Run notebook s
+- Run notebook 02.01.01-data_wrangling.ipynb, this will scrape the web for the game statistics
+- Run notebook 02.01.02-data_wrangling.ipynb, this will import the stadium attributes and join the datasets
+- Run notebook 02.03.01-data_exploration.ipynb, this will run the EDA and write a file
+- Run notebook 03.01_Data_Preparation.ipynb, this will remove features and prepare the data for the models
+- Random Forest Model, 04.02_Random_Forest_Regressor.ipynb
+- XGBoost Model, 04.02_XGBOOST_Regressor.ipynb
+- Stochastic Gradient Descent Regression, 04.03_SVR_Regressor.ipynb 
+
+
+## Model Parameter Files 
+https://github.com/mrpalazz/mlb_attendance_prediction/blob/main/documents/Model%20Parameters%20File.txt
+
+## Project Location
+https://github.com/mrpalazz/mlb_attendance_prediction/edit/main
