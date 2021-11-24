@@ -15,4 +15,4 @@ The data comes from two sources:
 
 1 - Run notebook 02.01.01-data_wrangling.ipynb, this will scrape the web for the game statistics
 2 - Run notebook 02.01.02-data_wrangling.ipynb, this will import the stadium attributes and join the datasets
-3 - Run notebook 
+3 - Run notebook s
